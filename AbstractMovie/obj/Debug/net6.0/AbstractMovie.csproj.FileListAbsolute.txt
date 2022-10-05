@@ -1,0 +1,15 @@
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.csproj.AssemblyReference.cache
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.AssemblyInfoInputs.cache
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.AssemblyInfo.cs
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.csproj.CoreCompileInputs.cache
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\bin\Debug\net6.0\AbstractMovie.exe
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\bin\Debug\net6.0\AbstractMovie.deps.json
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\bin\Debug\net6.0\AbstractMovie.runtimeconfig.json
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\bin\Debug\net6.0\AbstractMovie.dll
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\bin\Debug\net6.0\AbstractMovie.pdb
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.dll
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\refint\AbstractMovie.dll
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.pdb
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\AbstractMovie.genruntimeconfig.cache
+C:\Users\14143\source\repos\AbstractMovie\AbstractMovie\AbstractMovie\obj\Debug\net6.0\ref\AbstractMovie.dll

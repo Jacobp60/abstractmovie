@@ -81,8 +81,6 @@ namespace AbstractMovie
 
         public override void Display()
         {
-            foreach (var movie in _movies)
-            Console.WriteLine($"Id: {Id} Title: {Title}, Genre: {Genres}");
 
             for (int i = 0; i < MovieIds.Count; i++)
             {

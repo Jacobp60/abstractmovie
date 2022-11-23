@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractMovie
+namespace AbstractMovie.Models.Types
 {
     public abstract class Media
     {
@@ -12,10 +12,11 @@ namespace AbstractMovie
 
         public string Title { get; set; }
 
-        public abstract void Display();
+        public abstract String Display();
 
-        public abstract void Read();
+        public Media()
+        {
 
-
+        }
     }
 }
